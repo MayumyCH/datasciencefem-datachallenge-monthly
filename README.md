@@ -5,7 +5,7 @@
 Repositorio creado para almacenar los retos realizados durante el #DataChallenge365FEM #DataChallenge Mensual
 
 ## Retos de Enero
-- [Py-if-else](https://github.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/python_if_else.ipynb)
+- [Python If-Else](https://github.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/python_if_else.ipynb)
 - [The Minion Game](https://github.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/the_minion_game/the_minion_game.ipynb)
 
 ## Términos y Condiciones
