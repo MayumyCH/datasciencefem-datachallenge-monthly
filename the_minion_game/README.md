@@ -3,7 +3,7 @@
 #
 # **RETO: "The Minion Game"**
 
-<img src="https://s3.amazonaws.com/hr-challenge-images/9693/1450330231-04db904008-banana.png" alt="descargar" border="0" width=500px>
+<img src="https://s3.amazonaws.com/hr-challenge-images/9693/1450330231-04db904008-banana.png" alt="descargar" border="0" width=650px>
 
 _En este reto tiene como finalidad la resolución del juego "The Minion Game"; el cual consiste en que dos jugadores tendran un mismo string, pero uno de ellos debe hacer substring que inicien con alguna vocal y el otro que inicien con alguna consonante, el que obtengas mas substring sera el ganador._
 
@@ -12,8 +12,8 @@ _En este reto tiene como finalidad la resolución del juego "The Minion Game"; e
 
 ## 💡 Solución
 1. [Notebook de la solucion del Reto](https://github.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/the_minion_game/the_minion_game.ipynb)
-2. [Pdf de la explicacion de la solucion del Reto]()
-3. [Pdf de la exposicion de la solucion del Reto]()
+2. [Pdf de la explicacion de la solucion del Reto](https://github.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/the_minion_game/dsfem_resolucion_reto1)
+3. [Pdf de la exposicion de la solucion del Reto](https://github.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/the_minion_game/dsfem_expo_reto1.pdf)
 
 ## 💻 Contribuidores 
 
@@ -21,7 +21,7 @@ _En este reto tiene como finalidad la resolución del juego "The Minion Game"; e
   <tr>
     <td align="center">
         <a href="#Foto">
-            <img src="https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_800_800/0/1522775622504?e=1618444800&v=beta&t=rQYxGMVl2IUKk-PJVJLmYpyYE60Eo8lUglRhKTpnnKc" width="100px;" alt="" target="_blank"/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/assets/miembros/camilo.jpg" width="100px;" alt="" target="_blank"/>
             <br /><sub><b>Camilo - Becario</b></sub>
         </a>
         <br />
@@ -30,7 +30,7 @@ _En este reto tiene como finalidad la resolución del juego "The Minion Game"; e
     </td>
     <td align="center">
         <a href="#Foto">
-            <img src="https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_800_800/0/1522775622504?e=1618444800&v=beta&t=rQYxGMVl2IUKk-PJVJLmYpyYE60Eo8lUglRhKTpnnKc" target="_blank" width="100px;" alt=""/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/assets/miembros/alejandra.jpg" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Alejandra - Becaria</b> </sub>
         </a>
         <br />
@@ -39,7 +39,7 @@ _En este reto tiene como finalidad la resolución del juego "The Minion Game"; e
     </td>
     <td align="center">
         <a href="#Foto">
-            <img src="https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_800_800/0/1522775622504?e=1618444800&v=beta&t=rQYxGMVl2IUKk-PJVJLmYpyYE60Eo8lUglRhKTpnnKc" target="_blank" width="100px;" alt=""/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/assets/miembros/vero.jpg" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Vero - Lider</b> </sub>
         </a>
         <br />
@@ -48,7 +48,7 @@ _En este reto tiene como finalidad la resolución del juego "The Minion Game"; e
     </td>
     <td align="center">
         <a href="#Foto">
-            <img src="https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_800_800/0/1522775622504?e=1618444800&v=beta&t=rQYxGMVl2IUKk-PJVJLmYpyYE60Eo8lUglRhKTpnnKc" target="_blank" width="100px;" alt=""/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/assets/miembros/carmelo.jpg" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Carmelo - Becario</b></sub>
         </a>
         <br />
@@ -59,7 +59,7 @@ _En este reto tiene como finalidad la resolución del juego "The Minion Game"; e
   <tr>
     <td align="center">
         <a href="#Foto">
-            <img src="https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_800_800/0/1522775622504?e=1618444800&v=beta&t=rQYxGMVl2IUKk-PJVJLmYpyYE60Eo8lUglRhKTpnnKc" width="100px;" alt="" target="_blank"/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/assets/miembros/wuen.jpg" width="100px;" alt="" target="_blank"/>
             <br /><sub><b>Wuen - Becaria</b></sub>
         </a>
         <br />
@@ -68,7 +68,7 @@ _En este reto tiene como finalidad la resolución del juego "The Minion Game"; e
     </td>
     <td align="center">
         <a href="#Foto">
-            <img src="https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_800_800/0/1522775622504?e=1618444800&v=beta&t=rQYxGMVl2IUKk-PJVJLmYpyYE60Eo8lUglRhKTpnnKc" target="_blank" width="100px;" alt=""/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/assets/miembros/cristian.jpg" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Cristian - Becario</b> </sub>
         </a>
         <br />
@@ -77,7 +77,7 @@ _En este reto tiene como finalidad la resolución del juego "The Minion Game"; e
     </td>
     <td align="center">
         <a href="#Foto">
-            <img src="https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_800_800/0/1522775622504?e=1618444800&v=beta&t=rQYxGMVl2IUKk-PJVJLmYpyYE60Eo8lUglRhKTpnnKc" target="_blank" width="100px;" alt=""/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/assets/miembros/mayu.jpg" target="_blank" width="100px;" alt=""/>
             <br /><sub><b>Mayumy- Becaria</b></sub>
         </a>
         <br />
