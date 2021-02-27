@@ -11,7 +11,7 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
 - [The Minion Game](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/the_minion_game)
 
 ### Febrero
-...
+- [Nobel Laureates, 1901-Present]()
 
 ## 📌Términos y Condiciones
 
