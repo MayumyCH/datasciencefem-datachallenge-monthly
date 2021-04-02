@@ -13,7 +13,7 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
 - [Nobel Laureates, 1901-Present](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/nobel_laureates_1901_present)
 
 ### Marzo
-- [Titanic - Machine Learning from Disaster](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/nobel_laureates_1901_present)
+- [Titanic - Machine Learning from Disaster](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/titanic_machine_learning_from_disaster)
 
 ## 📌Términos y Condiciones
 
