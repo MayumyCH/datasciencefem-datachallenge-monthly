@@ -5,15 +5,21 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
 
 ## 🔥 Retos
 
-### Enero
+### Enero - Febrero
 - [Python If-Else](https://github.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/python_if_else.ipynb)
 - [The Minion Game](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/the_minion_game)
 
-### Febrero
+### Febrero - Marzo
 - [Nobel Laureates, 1901-Present](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/nobel_laureates_1901_present)
 
-### Marzo
+### Marzo - Abril
 - [Titanic - Machine Learning from Disaster](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/titanic_machine_learning_from_disaster)
+
+### Abril - Mayo
+- Descanso propíciado por DataSciencieFem
+
+### Junio
+- [Advertising Dataset]()
 
 ## 📌Términos y Condiciones
 
