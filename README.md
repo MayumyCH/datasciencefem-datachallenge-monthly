@@ -19,7 +19,7 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
 - Descanso propíciado por DataSciencieFem
 
 ### Junio
-- [Advertising Dataset]()
+- [Advertising Dataset](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/tree/main/advertising_multiple_linear_regression)
 
 ## 📌Términos y Condiciones
 
