@@ -1,27 +1,26 @@
 <img src="https://i.ibb.co/DWSqtc1/Encabezado.png" alt="descargar" border="0" width=800px>
 
 # DataScienceFem_Challenges
-Repositorio creado para almacenar los retos realizados durante el #DataChallenge365FEM #DataChallenge Mensual
+Repositorio creado para almacenar los retos realizados durante el #DataChallenge365FEM 2020 - 2021 #DataChallenge Mensual
 
 ## 🔥 Retos
 
-### Enero - Febrero
+### 1er Reto
 - [Python If-Else](https://github.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/python_if_else.ipynb)
 - [The Minion Game](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/the_minion_game)
 
-### Febrero - Marzo
+### 2do Reto
 - [Nobel Laureates, 1901-Present](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/nobel_laureates_1901_present)
 
-### Marzo - Abril
+### 3er Reto
 - [Titanic - Machine Learning from Disaster](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/titanic_machine_learning_from_disaster)
 
-### Abril - Mayo
-- Descanso propíciado por DataSciencieFem
-
-### Junio
+### 4to Reto
 - [Advertising Dataset](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/tree/main/advertising_multiple_linear_regression)
 
-### Julio - Agosto
+### 5to Reto
+
+### 6to Reto
 
 ## 📌Términos y Condiciones
 
