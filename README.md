@@ -6,21 +6,24 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
 ## 🔥 Retos
 
 ### 1er Reto
-- [Python If-Else](https://github.com/MayumyCH/dsfem_datachallenge_monthly/blob/main/python_if_else.ipynb)
-- [The Minion Game](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/the_minion_game)
+- [Python If-Else](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/blob/main/1.%20python_if_else/python_if_else.ipynb)
+- [The Minion Game](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/tree/main/1.%20the_minion_game)
 
 ### 2do Reto
-- [Nobel Laureates, 1901-Present](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/nobel_laureates_1901_present)
+- [Nobel Laureates, 1901-Present](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/tree/main/2.%20nobel_laureates_1901_present)
 
 ### 3er Reto
-- [Titanic - Machine Learning from Disaster](https://github.com/MayumyCH/dsfem_datachallenge_monthly/tree/main/titanic_machine_learning_from_disaster)
+- [Titanic - Machine Learning from Disaster](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/tree/main/3.%20titanic_machine_learning_from_disaster)
 
 ### 4to Reto
-- [Advertising Dataset](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/tree/main/advertising_multiple_linear_regression)
+- [Advertising Dataset](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/tree/main/4.%20advertising_multiple_linear_regression)
 
 ### 5to Reto
+- [Marketing data segmentacion RFM]()
 
 ### 6to Reto
+- [Marketing data segmentacion]()
+
 
 ## 📌Términos y Condiciones
 
