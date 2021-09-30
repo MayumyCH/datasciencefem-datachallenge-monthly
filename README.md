@@ -22,7 +22,7 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
 - [Marketing data segmentacion RFM]()
 
 ### 6to Reto
-- [Marketing data segmentacion]()
+- [Marketing data segmentacion](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/tree/main/6.%20marketing_data_segmentation_python)
 
 
 ## 📌Términos y Condiciones
