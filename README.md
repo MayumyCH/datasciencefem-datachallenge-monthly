@@ -22,7 +22,7 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
 - [Marketing data segmentacion RFM]()
 
 ### 6to Reto
-- [Marketing data segmentacion](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/tree/main/6.%20ifood-marketing-data-segmentacion)
+- [Ifood marketing data segmentation](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/tree/main/6.%20ifood-marketing-data-segmentation)
 
 
 ## 📌Términos y Condiciones
