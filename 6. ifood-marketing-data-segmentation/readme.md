@@ -40,7 +40,7 @@ encuestados; ¿Cómo se relacionan las variables con las tasas de respuesta? ¿Q
 ## 🔗 Link importantes
 > ****
 1. [Link del Reto](https://github.com/ifood/ifood-data-advanced-analytics-test)
-2. [Solución del Reto (Notebook)](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/blob/main/6.%20ifood-marketing-data-segmentation/marketing_data_Segmentation_python.ipynb)
+2. [Solución del Reto (Notebook)](https://github.com/MayumyCH/datasciencefem-datachallenge-monthly/blob/main/6.%20ifood-marketing-data-segmentation/ifood-marketing-data-segmentation.ipynb)
 
 ## 💻 Contribuidores 
 > ****
