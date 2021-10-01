@@ -101,10 +101,10 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
     <td align="center">
         <a href="#Foto">
             <img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/0.%20resources/miembros/carmen.jpg" target="_blank" height="80px" alt=""/>
-            <br /><sub><b>Carmen  - Becaria</b> 📊</sub>
+            <br /><sub><b>Carmen- Becaria</b></sub>
         </a>
         <br />
-        <a href="#analisis" title="Analisis"></a> 
+        <a href="#analisis" title="Analisis">📊</a> 
         <a href="#github" target="_blank" title="Github">:octocat:</a>
     </td>
         <td align="center">
