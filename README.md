@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/DWSqtc1/Encabezado.png" alt="descargar" border="0" width=800px>
 
 # DataScienceFem_Challenges
-Repositorio creado para almacenar los retos realizados durante el #DataChallenge365FEM 2020 - 2021 #DataChallenge Mensual
+Repositorio construido para almacenar los retos realizados durante el #DataChallenge365FEM 2020 - 2021 #DataChallenge Mensual
 
 ## 🔥 Retos
 
