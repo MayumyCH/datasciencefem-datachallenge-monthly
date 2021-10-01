@@ -3,7 +3,7 @@
 # **RETO: "Ifood Marketing data Segmentacion"**
 
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/6.%20ifood-marketing-data-segmentacion/resources/criterios_segmentacion.jpg" alt="descargar" border="0" height=200px>
+<img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/6.%20ifood-marketing-data-segmentation/resources/criterios_segmentacion.jpg" alt="descargar" border="0" height=200px>
 </div>
 <br>
 

@@ -35,17 +35,8 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
   <tr>
     <td align="center">
         <a href="#Foto">
-            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/main/assets/miembros/camilo.jpg"  height="70px" alt="" target="_blank"/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/0.%20resources/miembros/camilo.jpg"  height="70px" alt="" target="_blank"/>
             <br /><sub><b>Camilo - Becario</b></sub>
-        </a>
-        <br />
-        <a href="#analisis" title="Analisis">📈</a> 
-        <a href="#github" title="Github">:octocat:</a>
-    </td>
-    <td align="center">
-        <a href="#Foto">
-            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/main/assets/miembros/alejandra.jpg" target="_blank"  height="80px" alt=""/>
-            <br /><sub><b>Alejandra - Becaria</b> </sub>
         </a>
         <br />
         <a href="#analisis" title="Analisis">📊</a> 
@@ -53,8 +44,26 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
     </td>
     <td align="center">
         <a href="#Foto">
-            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/main/assets/miembros/vero.jpg" target="_blank"  height="80px" alt=""/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/0.%20resources/miembros/alejandra.jpg" target="_blank"  height="80px" alt=""/>
+            <br /><sub><b>Alejandra - Becaria</b> </sub>
+        </a>
+        <br />
+        <a href="#analisis" title="Analisis">📈</a> 
+        <a href="#github" title="Github">:octocat:</a>
+    </td>
+    <td align="center">
+        <a href="#Foto">
+            <img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/0.%20resources/miembros/vero.jpg" target="_blank"  height="80px" alt=""/>
             <br /><sub><b>Vero - Lider</b> </sub>
+        </a>
+        <br />
+        <a href="#analisis" title="Analisis">📊</a> 
+        <a href="#github" target="_blank" title="Github">:octocat:</a>
+    </td>
+    <td align="center">
+        <a href="#Foto">
+            <img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/0.%20resources/miembros/carmelo.jpg" target="_blank" height="80px" alt=""/>
+            <br /><sub><b>Carmelo - Becario</b></sub>
         </a>
         <br />
         <a href="#analisis" title="Analisis">📈</a> 
@@ -62,8 +71,8 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
     </td>
     <td align="center">
         <a href="#Foto">
-            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/main/assets/miembros/carmelo.jpg" target="_blank" height="80px" alt=""/>
-            <br /><sub><b>Carmelo - Becario</b></sub>
+            <img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/0.%20resources/miembros/wuen.jpg" target="_blank" height="80px" alt=""/>
+            <br /><sub><b>Wuen - Becaria</b></sub>
         </a>
         <br />
         <a href="#analisis" title="Analisis">📊</a> 
@@ -73,16 +82,7 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
   <tr>
     <td align="center">
         <a href="#Foto">
-            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/main/assets/miembros/wuen.jpg" height="80px" alt="" target="_blank"/>
-            <br /><sub><b>Wuen - Becaria</b></sub>
-        </a>
-        <br />
-        <a href="#analisis" title="Analisis">📈</a> 
-        <a href="#github" target="_blank" title="Github">:octocat:</a>
-    </td>
-    <td align="center">
-        <a href="#Foto">
-            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/main/assets/miembros/cristian.jpg" target="_blank" height="80px" alt=""/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/0.%20resources/miembros/cristian.jpg" target="_blank" height="80px" alt=""/>
             <br /><sub><b>Cristian - Becario</b> </sub>
         </a>
         <br />
@@ -91,11 +91,29 @@ Repositorio creado para almacenar los retos realizados durante el #DataChallenge
     </td>
     <td align="center">
         <a href="#Foto">
-            <img src="https://raw.githubusercontent.com/MayumyCH/dsfem_datachallenge_monthly/main/assets/miembros/mayu.jpg" target="_blank" height="80px" alt=""/>
+            <img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/0.%20resources/miembros/mayu.jpg" height="80px" alt="" target="_blank"/>
             <br /><sub><b>Mayumy- Becaria</b></sub>
         </a>
         <br />
         <a href="#analisis" title="Analisis">📈</a> 
+        <a href="#github" target="_blank" title="Github">:octocat:</a>
+    </td>
+    <td align="center">
+        <a href="#Foto">
+            <img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/0.%20resources/miembros/carmen.jpg" target="_blank" height="80px" alt=""/>
+            <br /><sub><b>Carmen  - Becaria</b> 📊</sub>
+        </a>
+        <br />
+        <a href="#analisis" title="Analisis"></a> 
+        <a href="#github" target="_blank" title="Github">:octocat:</a>
+    </td>
+        <td align="center">
+        <a href="#Foto">
+            <img src="https://raw.githubusercontent.com/MayumyCH/datasciencefem-datachallenge-monthly/main/0.%20resources/miembros/sol.jpg" height="80px" alt="" target="_blank"/>
+            <br /><sub><b>Sol - Becaria</b></sub>
+        </a>
+        <br />
+        <a href="#analisis" title="Analisis">📊</a> 
         <a href="#github" target="_blank" title="Github">:octocat:</a>
     </td>
   </tr>
